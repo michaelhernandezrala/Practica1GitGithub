@@ -36,6 +36,7 @@
  en dos ramas diferentes, HTMLIFY y STYLED.
  
 -El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
+
  No se produce ningún conflicto. Esto es debido a que el merge que se produce
  es de tipo fast forward. Esto es debido a que el commit en el que se 
  encuentra el branch MASTER es padre del branch STYLED.
