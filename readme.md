@@ -4,8 +4,8 @@
  
  Se puede hacer de dos maneras:
 
-   a) git reset HEAD~1 + git restore  
-   b) git reset --hard HEAD~1
+   - git reset HEAD~1 + git restore  
+   - git reset --hard HEAD~1
 
  En los comandos del apartado a) el comando reset nos permite mover tanto el 
  puntero HEAD como la rama actual a un determinado commit y el comando 
